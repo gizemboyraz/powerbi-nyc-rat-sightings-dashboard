@@ -49,4 +49,4 @@ This project was created as a portfolio piece to demonstrate my skills in Power 
 
 
 ### Main Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/RatSightingsDashboard.png)

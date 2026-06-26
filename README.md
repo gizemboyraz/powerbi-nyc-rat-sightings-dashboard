@@ -47,3 +47,6 @@ This project was created as a portfolio piece to demonstrate my skills in Power 
 
 ## Dashboard Preview
 
+
+### Main Dashboard
+![Dashboard](images/dashboard.png)
